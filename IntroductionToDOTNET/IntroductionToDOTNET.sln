@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geomet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{78D936AF-26D2-4EA6-B28F-6FE693A55F7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{A1EA8A80-CDD1-4926-B8E2-0F4D164E5798}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{78D936AF-26D2-4EA6-B28F-6FE693A55F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78D936AF-26D2-4EA6-B28F-6FE693A55F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78D936AF-26D2-4EA6-B28F-6FE693A55F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1EA8A80-CDD1-4926-B8E2-0F4D164E5798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EA8A80-CDD1-4926-B8E2-0F4D164E5798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EA8A80-CDD1-4926-B8E2-0F4D164E5798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EA8A80-CDD1-4926-B8E2-0F4D164E5798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
